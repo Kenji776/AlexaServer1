@@ -1,0 +1,29 @@
+{
+  "name": "alexaserver",
+  "version": "1.0.0",
+  "description": "Sample Alexa Server Project",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-app-server": "^2.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kenji776/AlexaServer1.git"
+  },
+  "keywords": [
+    "alexa",
+    "test",
+    "server",
+    "echo"
+  ],
+  "author": "Daniel Llewellyn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kenji776/AlexaServer1/issues"
+  },
+  "homepage": "https://github.com/Kenji776/AlexaServer1#readme"
+}
