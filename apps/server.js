@@ -7,4 +7,4 @@ var server = new AlexaAppServer( {
 	port: process.env.PORT || 80
 } );
 
-server.start()
+server.start();
